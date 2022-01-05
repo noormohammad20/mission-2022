@@ -2,10 +2,36 @@ body{
     font-family: 'Luxurious Roman', cursive;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Mono', monospace;
+    
 }
 .first-section{
+    display:flex;
+    margin-bottom: 150px;
 
+}
+.parente{
+    width: 100%;
 }
 .orange-color{
     color:orange
+}
+.head-border{
+    border-left: 5px solid;
+    border-radius: 3px;
+}
+.explore-button{
+    text-decoration: none;
+    margin:10px;
+    padding:10px 30px; 2
+    border-width: none;
+    background-image: linear-gradient(yellow,pink);
+    border-radius: 10px;
+    
+}
+.half-width{
+    width:100%;
+    margin:40px;
+}
+.half-width img{
+    width: 60%;
 }
