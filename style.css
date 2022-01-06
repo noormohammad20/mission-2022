@@ -100,4 +100,11 @@ width:40%;
     background-image: linear-gradient(salmon, yellowgreen);
     box-shadow: 8px 8px 15px sandybrown;
 }
+.footer-color{
+    font-family: cursive;
+    text-align: center;
+    background-image: linear-gradient(rgba(128, 97, 97, 0.664),rgb(240, 129, 110));
+    margin: 0;
+    borer:2px solid;
+}
 
