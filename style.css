@@ -71,12 +71,25 @@ width:40%;
 .third-section{
     display: flex;
     justify-content: space-around;
-    margin:80px;
+    margin:120px;
     background-image: url(./images/shapes/dream-bg.png);
     background-repeat:no-repeat ;
     background-position: right;
      
 }
-img{
+.img-1{
      width:60%;
+}
+.fourth-section{
+    display: flex;
+    justify-content: space-around;
+    margin: 150px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+}
+.img-2{
+    width:75%;
+    
 }
