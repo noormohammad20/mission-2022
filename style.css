@@ -68,3 +68,15 @@ width:40%;
 #item-2{
     background-color: violet;
 }
+.third-section{
+    display: flex;
+    justify-content: space-around;
+    margin:80px;
+    background-image: url(./images/shapes/dream-bg.png);
+    background-repeat:no-repeat ;
+    background-position: right;
+     
+}
+img{
+     width:60%;
+}
