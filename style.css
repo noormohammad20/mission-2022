@@ -16,8 +16,13 @@ body{
     color:orange
 }
 .head-border{
-    border-left: 5px solid;
+    border-left: 5px solid orange;
     border-radius: 3px;
+    
+}
+.head-font{
+    font-size: 40px;
+    font-weight: 700;
 }
 .explore-button{
     text-decoration: none;
@@ -31,7 +36,35 @@ body{
 .half-width{
     width:100%;
     margin:40px;
+
 }
 .half-width img{
     width: 60%;
+}
+.second-section{
+    display: flex;
+    justify-content: space-around;
+    padding:50px;
+    
+
+}
+.head-font{
+    text-align: center;
+}
+.illustrator-size img
+{
+width:40%;
+}
+.mission{
+    width:300px;
+    border:1px solid gray;
+    background-color: sandybrown;
+    border-radius: 20px;
+    padding:15px
+}
+#item-1{
+    background-color: tan;
+}
+#item-2{
+    background-color: violet;
 }
